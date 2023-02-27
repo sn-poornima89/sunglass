@@ -17,16 +17,16 @@
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
 @import url(/sunglass/css/animate.min.css);
-@import url(css/normalize.css);
-@import url(css/icomoon.css);
-@import url(css/font-awesome.min.css);
-@import url(css/meanmenu.css);
-@import url(css/owl.carousel.min.css);
-@import url(css/swiper.min.css);
-@import url(css/slick.css);
-@import url(css/jquery.fancybox.min.css);
-@import url(css/jquery-ui.css);
-@import url(css/nice-select.css);
+@import url(/sunglass/css/normalize.css);
+@import url(/sunglass/css/icomoon.css);
+@import url(/sunglass/css/font-awesome.min.css);
+@import url(/sunglass/css/meanmenu.css);
+@import url(/sunglass/css/owl.carousel.min.css);
+@import url(/sunglass/css/swiper.min.css);
+@import url(/sunglass/css/slick.css);
+@import url(/sunglass/css/jquery.fancybox.min.css);
+@import url(/sunglass/css/jquery-ui.css);
+@import url(/sunglass/css/nice-select.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
